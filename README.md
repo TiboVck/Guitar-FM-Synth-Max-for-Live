@@ -1,4 +1,4 @@
-# Guitar-FM-Synth-Max-for-Live
+# Guitar FM Synth - Max for Live
 
 An experimental Max for Live plugin turning an electric guitar into an FM synthesis controller.
 
