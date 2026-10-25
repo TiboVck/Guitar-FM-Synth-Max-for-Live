@@ -2,7 +2,7 @@
 
 An experimental Max for Live plugin turning an electric guitar into an FM synthesis controller.
 
-Concept
+## Concept
 
 Frequency Modulation (FM) synthesis works by modulating the frequency of a carrier oscillator with another signal, called the modulator. The modulator changes the carrier's instantaneous frequency, producing new harmonics and timbral variations.
 
@@ -20,19 +20,19 @@ The resulting signal combines the pitch information of the guitar with the compl
 
 This creates a playable hybrid instrument where the guitar controls both the pitch and the timbre of the synthesized sound.
 
-Built with
+## Built with
 
-Max/MSP
+- Max/MSP
 
-Max for Live
+- Max for Live
 
-Electric guitar
+- Electric guitar
 
-Real-time pitch detection
+- Real-time pitch detection
 
-Frequency Modulation synthesis
+- Frequency Modulation synthesis
 
-Conceptual signal flow
+## Conceptual signal flow
 
 Electric Guitar → Pitch Detection → Carrier Frequency
 
